@@ -9,8 +9,13 @@ Deployment
 To deploy this project please ensure the following packages are installed in your python environment
 
   conda install pandas
+  
   conda install numpy 
+  
   conda install seaborn 
+  
   conda install matplotlib
+  
   conda install sklearn
+  
   conda install scipy.stats import sem
